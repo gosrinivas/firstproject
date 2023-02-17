@@ -1,0 +1,22 @@
+body{
+    background-color: #060047;
+    padding: 100px;
+}
+.parent {
+    background-color: #181823;
+    padding: 40px;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    justify-content: center;
+}
+
+.child {
+
+    background-color: aqua;
+    width: 200px;
+    height:200px;
+
+}
